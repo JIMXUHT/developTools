@@ -4,5 +4,5 @@
  下载地址：http://dlsw.baidu.com/sw-search-sp/soft/1a/17239/Everything-1.3.4.686.x64-Setup.1418106344.exe 
 ## 2.SwitchHosts
  host修改神器SwitchHosts  
- 下载地址：http://oldj.net/article/switchhosts/
+ 下载地址：https://github.com/oldj/SwitchHosts
  
