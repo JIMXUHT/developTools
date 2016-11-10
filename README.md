@@ -16,4 +16,10 @@
 ## 5.Idea配色
 &#160; &#160; &#160; &#160;下载的jar包，直接Import setting 选择下载的jia导入即可！  
 &#160; &#160; &#160; &#160;下载地址：http://color-themes.com/?view=index
+## 6.GitBash
+&#160; &#160; &#160; &#160;GIT命令行工具  
+&#160; &#160; &#160; &#160;下载地址：https://github.com/git-for-windows/git/releases/download/v2.10.2.windows.1/Git-2.10.2-64-bit.exe  
+## 7.TortoiseGit
+&#160; &#160; &#160; &#160;Git图形客户端工具  
+&#160; &#160; &#160; &#160;下载地址：https://download.tortoisegit.org/tgit/2.3.0.0/TortoiseGit-2.3.0.0-64bit.msi  
  
