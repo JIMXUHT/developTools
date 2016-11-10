@@ -22,4 +22,7 @@
 ## 7.TortoiseGit
 &#160; &#160; &#160; &#160;Git图形客户端工具  
 &#160; &#160; &#160; &#160;下载地址：https://download.tortoisegit.org/tgit/2.3.0.0/TortoiseGit-2.3.0.0-64bit.msi  
+## 8.Xshell 5
+&#160; &#160; &#160; &#160;Xshell 是一个强大的安全终端模拟软件，它支持SSH1, SSH2, 以及Microsoft Windows 平台的TELNET 协议    
+&#160; &#160; &#160; &#160;下载地址：http://dlsw.baidu.com/sw-search-sp/soft/7b/15201/Xshell_5.0.0.37_setup.1459931786.exe  
  
